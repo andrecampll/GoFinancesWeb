@@ -36,7 +36,7 @@ Para obter esse projeto, siga os passos:
 
 ```bash
 # Clone o seu fork
-$ git clone url-do-seu-fork && cd GoFinancesMobile
+$ git clone url-do-seu-fork && cd GoFinancesWeb
 
 # Crie uma branch com sua feature ou correção de bugs
 $ git checkout -b minha-branch
